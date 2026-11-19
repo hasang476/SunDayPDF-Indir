@@ -1,0 +1,36 @@
+SunDayPDF içinde kullanılan açık kaynak bileşenler
+===================================================
+
+SunDayPDF bu bileşenleri değiştirmeden kullanır. Her bileşenin kaynak kodu
+aşağıdaki adreslerden alınabilir; SunDayPDF'in kendi kaynak kodu her sürümün
+indirme sayfasında "SunDayPDF_x.x_kaynak_kodu.zip" olarak verilir.
+
+PyMuPDF / MuPDF (PDF motoru) ........ GNU AGPL-3.0
+    https://github.com/pymupdf/PyMuPDF
+    https://mupdf.com/releases
+
+Ghostscript (PDF/A dönüştürme) ...... GNU AGPL-3.0
+    https://github.com/ArtifexSoftware/ghostpdl-downloads/releases
+    https://ghostscript.com/releases/gsdnld.html
+
+Qt for Python / PySide6 (arayüz) ...... GNU LGPL-3.0
+    https://code.qt.io/cgit/pyside/pyside-setup.git
+
+Tesseract OCR ve dil dosyaları ........ Apache-2.0
+    https://github.com/tesseract-ocr/tesseract
+    https://github.com/tesseract-ocr/tessdata
+
+pdf2docx (PDF -> Word) ............... GNU GPL-3.0
+    https://github.com/ArtifexSoftware/pdf2docx
+
+python-pptx (PDF -> PowerPoint) ...... MIT
+    https://github.com/scanny/python-pptx
+
+fontTools ............................ MIT
+    https://github.com/fonttools/fonttools
+
+Python ............................... PSF License
+    https://www.python.org
+
+PyInstaller (paketleme) .............. GPL-2.0, paketlenen programlar için istisnalı
+    https://github.com/pyinstaller/pyinstaller
